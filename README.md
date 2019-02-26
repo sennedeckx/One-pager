@@ -24,7 +24,7 @@ Werk je met twee of meer teamleden aan hetzelfde project, dan volg je best deze 
 **De overige teamleden 👤👤 doen voorlopig nog niets!**
 
 1. Clone deze repo  
-`git clone https://github.com/pverhaert/Uitdaging2-new-age.git projectNaam`
+`git clone https://github.com/pverhaert/1ITF_onepage_new_age.git projectNaam`
 2. Open de map **projectNaam**  
 `cd projectNaam`  
 3. Wis de map **.git**  
